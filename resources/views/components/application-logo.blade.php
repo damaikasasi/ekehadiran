@@ -1,0 +1,1 @@
+<img src="{{ asset('images/logo.png') }}" alt="{{ config('app.name', 'SIKAP') }}" width="56" height="70" {{ $attributes }}>
